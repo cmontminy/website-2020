@@ -1,5 +1,6 @@
 A personal website built for myself using React and probably bootstrap
 
+Once the site is deployed, the master branch will hold the deployed files while the dev branch will hold the work files
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
