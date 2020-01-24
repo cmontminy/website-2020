@@ -2,6 +2,8 @@ A personal website built for myself using React and probably bootstrap
 
 Once the site is deployed, the master branch will hold the deployed files while the dev branch will hold the work files
 
+To launch from the dev branch, just run `npm run deploy` and the master branch will be updated with the changes. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
